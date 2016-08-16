@@ -9,6 +9,7 @@
  **********************************************************************************************/
 /** Map relative paths to URLs. */
 const map: any = {
+ 
 };
 
 /** User packages configuration. */
@@ -38,6 +39,7 @@ const barrels: string[] = [
   'app/shared',
   'app/login',
   'app/header',
+  'app/main',
   /** @cli-barrel */
 ];
 
